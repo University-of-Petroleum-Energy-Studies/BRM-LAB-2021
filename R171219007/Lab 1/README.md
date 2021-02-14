@@ -1,2 +1,2 @@
 # BRM Lab File 1
-##### Lab conducted on 21th January 2021
+##### Lab conducted on 21st January 2021
