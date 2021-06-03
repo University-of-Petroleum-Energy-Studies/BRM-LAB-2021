@@ -1,1 +1,2 @@
-BRM
+BRM lab file has all the ss and all the knowledge of experiments done in that perticular lab session.
+but folders on the name of lab_XYZ has the sscreen shots taken in those labs.
